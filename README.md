@@ -1,5 +1,5 @@
 # churn_prediction
-I undertook this academic project for my Data Analytics class in Syracuse University
+I undertook this academic project for my Data Mining class in Northeastern University
 
 Churn Prediction for KKBox
 
